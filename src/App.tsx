@@ -273,6 +273,7 @@ function App() {
               <Code2 className="w-12 h-12 text-white" />
             </div>
           </div>
+            <h3 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-slate-800 via-blue-800 to-indigo-900 bg-clip-text text-transparent mb-4"> basic </h3>
           <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-slate-800 via-blue-800 to-indigo-900 bg-clip-text text-transparent mb-4">
             Go Code to UML Generator
           </h1>
