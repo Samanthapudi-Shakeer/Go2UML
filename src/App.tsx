@@ -269,7 +269,7 @@ function App() {
         {/* Header */}
         <header className="text-center mb-12">
           <div className="flex items-center justify-center mb-6">
-            <div className="bg-gradient-to-r from-blue-800 to-indigo-900 p-4 rounded-2xl shadow-lg">
+            <div className="bg-gradient-to-r from-blue-800 to-green-900 p-4 rounded-2xl shadow-lg">
               <Code2 className="w-12 h-12 text-white" />
             </div>
           </div>
